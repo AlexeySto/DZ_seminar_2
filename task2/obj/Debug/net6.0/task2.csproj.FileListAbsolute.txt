@@ -1,0 +1,15 @@
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\bin\Debug\net6.0\task2.exe
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\bin\Debug\net6.0\task2.deps.json
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\bin\Debug\net6.0\task2.dll
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\bin\Debug\net6.0\task2.pdb
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\task2.dll
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\refint\task2.dll
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\task2.pdb
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+F:\Учение\Знакомство с C#\DZ Seminar 2\task2\obj\Debug\net6.0\ref\task2.dll
